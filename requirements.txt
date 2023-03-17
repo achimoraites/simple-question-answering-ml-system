@@ -2,3 +2,5 @@ requests==2.26.0
 elasticsearch==7.16.0
 transformers
 torch
+beautifulsoup4
+sentence-transformers
