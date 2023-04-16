@@ -11,6 +11,8 @@ https://user-images.githubusercontent.com/4193340/226748890-2415ca7e-e13a-4e5e-9
 
 ## Setup
 
+**This project built using Python 3.10.4**
+
 ```bash
 python -m venv venv
 
