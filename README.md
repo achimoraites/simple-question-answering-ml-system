@@ -1,11 +1,14 @@
 # Simple Question Answering ML System
 
-Documentation never has been so fun 😎
 
-This is a question and answering system that uses semantic search and a qa ml model
-to give an answer to the user. 
+This is a question and answering system that scrapes paragraphs from web pages, indexes them using Elasticsearch, and leverages the power of semantic search and natural language understanding to provide relevant answers to user queries. 
 
-The system will give the answer and it's source as well.
+
+## Features
+- Web scraping using Beautiful Soup
+- Document indexing with Elasticsearch
+- Semantic Search with result sources
+- Extractive Question Answering
 
 https://user-images.githubusercontent.com/4193340/226748890-2415ca7e-e13a-4e5e-9f82-c56a1a6408cc.mp4
 
